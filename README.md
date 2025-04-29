@@ -112,24 +112,10 @@ Traditional technical analysis is heavily reliant on human interpretation, which
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/stock-pattern-recognition-cnn.git
-cd stock-pattern-recognition-cnn
+git clone https://github.com/hakerpapplu/Stock-Pattern-Recognition-.git
 ```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
-### 3. Train the Model
-```bash
-python scripts/train_model.py
-```
-
-### 4. Evaluate the Model
-```bash
-python scripts/evaluate.py
-```
 
 ---
 
