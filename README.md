@@ -80,7 +80,7 @@ Traditional technical analysis is heavily reliant on human interpretation, which
 - Callbacks: EarlyStopping, ReduceLROnPlateau
 
 <p align="center">
-  <img src="accuracy.png" width="300"/>
+  <img src="accuracy.png" />
 </p>
 ---
 
